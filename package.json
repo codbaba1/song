@@ -24,7 +24,7 @@
     "erlpack": "^0.1.3",
     "ffmpeg-static": "^4.2.5",
     "jsonfile": "^2.4.0",
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "moment": "^2.27.0",
     "sodium": "^3.0.2",
     "typescript": "^3.9.6",
