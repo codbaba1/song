@@ -25,7 +25,7 @@
     "ffmpeg-static": "^4.2.5",
     "jsonfile": "^2.4.0",
     "minimist": "^1.2.3",
-    "moment": "^2.27.0",
+    "moment": "^2.29.2",
     "sodium": "^3.0.2",
     "typescript": "^3.9.6",
     "utf-8-validate": "^5.0.2",
