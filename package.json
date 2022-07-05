@@ -10,7 +10,7 @@
   "author": "Malexion",
   "license": "ISC",
   "dependencies": {
-    "@discordjs/opus": "^0.3.2",
+    "@discordjs/opus": "^0.8.0",
     "@types/jsonfile": "^5.0.1",
     "@types/minimist": "^1.2.0",
     "@types/moment": "^2.13.0",
